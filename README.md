@@ -2,6 +2,8 @@
 
 YouTube Assistant is a Streamlit application designed to provide insights and answers about YouTube videos based on their transcripts. By utilizing a combination of the LangChain library and OpenAI's embeddings, this app can create a vector database from a YouTube video's transcript and perform similarity searches to answer user queries.
 
+Created based on freeCodeCamp's [Langchain Crash Course for Beginners](https://www.youtube.com/watch?v=lG7Uxts9SXs).
+
 ## Requirements
 
 To run the YouTube Assistant app, you will need:
